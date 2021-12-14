@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📖 文章
+
+* [博客](http://u1s.top)
+* [简书](https://www.jianshu.com/u/80a16758d825)
+* [知乎](https://www.zhihu.com/people/yuanguangchao)
+* [掘金](https://juejin.cn/user/1284661815293975)
+* [github笔记](https://github.com/ygcedu/notes/issues)
