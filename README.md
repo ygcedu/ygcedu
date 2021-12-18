@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 * [博客](http://u1s.top)
 * [掘金](https://juejin.cn/user/1284661815293975)
 * [语雀](https://www.yuque.com/books/share/113887af-00c8-4ea1-80b2-caa68bc66da2)
-* [segmentfault](https://segmentfault.com/u/ciicuwh4/articles)
+* [思否](https://segmentfault.com/u/ciicuwh4/articles)
 * [知乎](https://www.zhihu.com/people/yuanguangchao)
 * [简书](https://www.jianshu.com/u/80a16758d825)
 * [github笔记](https://github.com/ygcedu/notes/issues)
