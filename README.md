@@ -1,16 +1,11 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey！I'm yuanguangchao.
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey! I'm yuanguangchao
 <br />
 <img align="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="430" height="100%" />
-
-<!--
-**ygcedu/ygcedu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a Front-end Developer in ShangHai
 - 📫 This is my mailbox: (gcyuan0509@163.com)
 - 🌱:I’m currently learning Typescript/Vue3
--->
+
 ## 📖 文章
 
 * [博客](http://u1s.top)
